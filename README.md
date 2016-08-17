@@ -1,6 +1,6 @@
 # Pokelerts
 
-Alerts for Pokemon Go!
+Alerts for Pokemon Go! Leverages the Skiplagged Catch That API (skiplagged.com/catch-that/)
 
 To use:
 
